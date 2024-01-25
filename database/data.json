@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "name": "Ramya",
+      "name": "Ramyamunusamy",
       "dept": "It&support ",
       "age": "23",
       "poy": "2",
@@ -37,8 +37,8 @@
       "id": 4
     },
     {
-      "name": "Ranjith",
-      "dept": "Angular Developer",
+      "name": "Ranjith ",
+      "dept": "developer",
       "age": "23",
       "poy": "2",
       "email": "ranjithmg2001@gmail.com",
