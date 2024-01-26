@@ -16,7 +16,8 @@ export class CrudService {
 
   constructor(private hc:HttpClient) { }
   
-  endpoint="http://localhost:3000/users/";
+    endpoint="http://localhost:3000/users/";
+    
    
   adduser(data:any)
   {
